@@ -1,0 +1,17 @@
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/bin/Debug/net5.0/DateBaseTest.deps.json
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/bin/Debug/net5.0/DateBaseTest.runtimeconfig.json
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/bin/Debug/net5.0/DateBaseTest.runtimeconfig.dev.json
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/bin/Debug/net5.0/DateBaseTest.dll
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/bin/Debug/net5.0/ref/DateBaseTest.dll
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/bin/Debug/net5.0/DateBaseTest.pdb
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/bin/Debug/net5.0/Npgsql.dll
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/DateBaseTest.csproj.AssemblyReference.cache
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/DateBaseTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/DateBaseTest.AssemblyInfoInputs.cache
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/DateBaseTest.AssemblyInfo.cs
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/DateBaseTest.csproj.CoreCompileInputs.cache
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/DateBaseTest.csproj.CopyComplete
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/DateBaseTest.dll
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/ref/DateBaseTest.dll
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/DateBaseTest.pdb
+/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/obj/Debug/net5.0/DateBaseTest.genruntimeconfig.cache

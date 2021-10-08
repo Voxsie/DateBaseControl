@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFC1BVVR89N8TCRjv19mZjax9vERV39bJXWd28ApzfqVgJq+sOv/UZSoAl7j/aDfc7LuxlAetsqzhrP5zsIzGg==",
+  "success": true,
+  "projectFilePath": "/Users/Voxsie/RiderProjects/DateBaseTest/DateBaseTest/DateBaseTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/Voxsie/.nuget/packages/npgsql/6.0.0-rc.1/npgsql.6.0.0-rc.1.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
